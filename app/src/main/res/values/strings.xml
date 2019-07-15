@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC Phase1 Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_alc">AboutALC</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+    <string name="fullname">Kudakwashe A. Siyaganda</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Zimbabwe</string>
+    <string name="email">Email: siyagandak@gmail.com</string>
+    <string name="phone_number">Phone: 263713432423</string>
+    <string name="slack_username">Slack Username: siyagandak</string>
+    <string name="about_alc_btn_display">About ALC</string>
+    <string name="my_profile_btn_display">My Profile</string>
+    <string name="image_content_description">Profile Picture</string>
+</resources>
